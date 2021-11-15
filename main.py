@@ -60,15 +60,13 @@ HELP_TEXT = """**Hey, Follow these steps:**
 
 ABOUT_TEXT = """--**About Me**-- 😎
 
-🤖 **Name :** [TGraphRoBot](https://telegram.me/TGraphRoBot)
+🤖 **Name :** [Imguplodrot](https://telegram.me/Imguplodrbot)
 
-👨‍💻 **Developer :** [Zaute](https://t.me/zautekm)
+👨‍💻 **Developer :** [Sarfaraz Stark](https://t.me/sarfarazstark)
 
-📢 **Channel :** [Jos Projects](https://telegram.me/josprojects)
+📢 **Channel :** [Blue Whale bots](https://telegram.me/BlueWhalebots)
 
 👥 **Feedback :** [Tap here](https://telegram.me/jospsupportbot)
-
-🌐 **Source :** [👉 Press me](https://github.com/ZauteKm/Image-Upload-Bot)
 
 📝 **Language :** [Python3](https://python.org)
 
@@ -201,9 +199,9 @@ async def telegraph_upload(bot, update):
             return
         except Exception as error:
             print(error)
-            await update.reply_text(text="Something wrong. Contact <a href='https://telegram.me/zautebot'>Developer</a>.", disable_web_page_preview=True)
+            await update.reply_text(text="Something wrong. Contact <a href='https://telegram.me/sarfarazstark'>Developer</a>.", disable_web_page_preview=True)
             return
-    medianame = "./DOWNLOADS/" + "ZauteKm/TGraphRoBot"
+    medianame = "./DOWNLOADS/" + "SarfarazStark/Imguplodrbot"
     text = await update.reply_text(
         text="<code>Downloading to My Server ...</code>",
         disable_web_page_preview=True, reply_to_message_id=update.message_id,
