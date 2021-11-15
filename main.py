@@ -66,7 +66,7 @@ ABOUT_TEXT = """--**About Me**-- 😎
 
 📢 **Channel :** [Blue Whale bots](https://telegram.me/BlueWhalebots)
 
-👥 **Feedback :** [Tap here](https://telegram.me/jospsupportbot)
+👥 **Feedback :** [Tap here](https://telegram.me/SarfarazStarkBot)
 
 📝 **Language :** [Python3](https://python.org)
 
