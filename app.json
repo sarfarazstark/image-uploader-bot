@@ -1,7 +1,7 @@
 {
   "name": "Image-Upload-Bot",
   "description": "A bot to Upload Telegram Images to telegraph",
-  "repository": "https://github.com/ZauteKm/Image-Uploader",
+  "repository": "https://github.com/sarfarazstark/image-uploader-bot",
   "logo": "https://telegra.ph/file/fc9136f02541ac58c96e0.jpg",
   "keywords": ["telegram", "telegraph", "imageuploader","telegram bot"],
   "env": {
